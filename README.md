@@ -8,4 +8,4 @@ What is a LED?
 <p><strong><em>Light Emitting Diode</em></strong> is a device that produces light on electrical and electronic devices.<br> It is a light sensor which emits light that is reflected from surface which further helps in sensing the environment.</p>
 
 <a name="gif"></a>
-![gif](insta-bot/ezgif.com-gif-maker.mp4)
+![gif](https://media.giphy.com/media/DWzbPgeHKmFILbyjfv/giphy.gif)
